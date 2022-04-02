@@ -1,2 +1,2 @@
 # Design-Pattern-C-
-Structural, Behavioral, Creational
+Design pattern types are: Structural, Behavioral, Creational
