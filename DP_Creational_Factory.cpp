@@ -1,4 +1,3 @@
-/*
 // creating in O(1) class type via map <name to create, new creation>
 // virtual factory creator as abstruct class, implemented by many. //name doesnt really matter...
 // class factory_creation has map member initialized to any type (the abstruct* before), and return (with after check if exist!!!) the creation, if not exist, do not use pointer... 
@@ -88,4 +87,4 @@ int main() {
 		wfc->work();
 	}
 	delete wrk_f;
-}*/
+}
