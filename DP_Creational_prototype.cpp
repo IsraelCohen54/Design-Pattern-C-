@@ -1,4 +1,3 @@
-/*
 #include<iostream>
 #include <map>
 #include <vector>
@@ -74,4 +73,4 @@ int main() {
 
 	delete a;
 	delete b;
-}*/
+}
