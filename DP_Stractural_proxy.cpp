@@ -1,9 +1,8 @@
-/*
 # include <iostream>
 # include <map>
 
-//abstruct class, 2 classes (real+proxy) inherit from it,
-//the proxy has variable of real class to reach there if doesn't find solution within proxy class
+//Abstruct class, and 2 classes (real+proxy) inheriting from it.
+//The proxy has variable of real class to reach there if doesn't find solution within proxy class.
 class Observable {
 public:
     virtual int Request(std::string) = 0;
@@ -57,4 +56,3 @@ int main() {
     std::cout << dish_rank << std::endl;
     delete Jerusalem_restaurent;
 }
-*/
