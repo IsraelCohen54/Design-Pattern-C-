@@ -1,6 +1,5 @@
-/*
 # include <iostream>
-//Object change it's behavior when it's state change
+//Changing object behavior when his state changed at runtime.
 //The main point is you can easiliy change behaviour when state changed, without if/switch case (e.g. at end), code looks better that way
 //as any class has it's own responsibility and functioning (not many if X.. do A,B,C, else if do..)
 #include "windows.h" //not necessary in DP, just for sleep function
@@ -106,4 +105,4 @@ int main() {
 	delete(B);
 	delete(C);
 	delete(feel_like_that);
-}*/
+}
