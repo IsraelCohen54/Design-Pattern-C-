@@ -1,6 +1,5 @@
-/*
 #include <iostream>
-
+//Create only one instance, if already created, return the created instance.
 class Singelton {
 private:
 	static Singelton* _sing_instance; //Initialized outside of class as it's a static type
@@ -50,4 +49,3 @@ int main() {
 }
 
 //(We can add a static integer in singelton class to sum the number of times an instance of a class was created, another working idea)
-*/
