@@ -1,9 +1,9 @@
-/*
 #include<iostream>
 #include<list>
-//need some renovations imo (the very basic does work though).
-//class Event_arg; //meaning what happened, currently not implemented
+// Object has it's own list of objects who would like to know when it's changed.
+// (need some renovations imo (the very basic does work though), as info of what changed probably should be implemented as well).
 
+//class Event_arg; //meaning what happened, **currently not implemented**
 //~~~~~//
 //Notify all concern observers onle when there is a change in observed item.
 //Than, up to observer when to check out the update.
@@ -126,4 +126,4 @@ int main() {
 	a.Detack(b);	
 	a.SetState(3);
 	a.SetState(5);
-}*/
+}
