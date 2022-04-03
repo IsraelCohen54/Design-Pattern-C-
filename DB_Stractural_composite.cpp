@@ -1,4 +1,3 @@
-/*
 //Made by Israel at 15/03/22, preventing circles in hierarchy.. Have a good day you there! (user... ;)
 
 #include <iostream>
@@ -181,4 +180,4 @@ int main() {
 	delete leefy3;
 	delete Branch1;
 	delete Branch2;
-}*/
+}
