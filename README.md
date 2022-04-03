@@ -3,21 +3,21 @@ Design pattern implemented types are: Structural, Creational, and Behavioural. (
 Added explanations, prevented circle of hierarchy in composite DP.
 
 Stractural:
-class_adapter
-object_adapter
-bridge
-composite
-decorator
+class_adapter,
+object_adapter,
+bridge,
+composite,
+decorator,
 proxy
 
 Creational:
-Factory
-abstruct_factory
-prototype
-singelton
-builder
+Factory,
+abstruct_factory,
+prototype,
+singelton,
+builder,
 builder_immutebale_object + IOC (=inversion_of_control - user control)
 
 behavioral:
-observer
+observer,
 state
