@@ -59,6 +59,5 @@ int main() {
 		}
 	} while (check);
 	client_wish->Request();
-	std::cout << "THE END\n";
-	std::cout << "Well done!\n";
+	std::cout << "The end, Well done! :)\n";
 }
