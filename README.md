@@ -2,7 +2,7 @@
 Design pattern implemented types are: Structural, Creational, and Behavioural. (=Relations between classes, Creational of objects, Changes at runtime).
 Added explanations, prevented circle of hierarchy in composite DP.
 
-Stractural:
+Structural:
 class_adapter,
 object_adapter,
 bridge,
@@ -18,14 +18,14 @@ singelton,
 builder,
 builder_immutebale_object + IOC (=inversion_of_control - user control)
 
-behavioral:
+Behavioural:
 observer,
 state
 
-(not implemented but important:
-Stractural: Flyweight
+(not implemented but important, a reminder:
+Structural: Flyweight
 Behavioural: Command, strategy, iterator, interpreter).
 
 To my own use if ever needed,
-added two files, first one with some example of STL (Standard Template Library) usage,
+added two files, the first one with some examples of STL (Standard Template Library) usage,
 the second contains the implementations of CCTOR (copy constructor) and the like.
