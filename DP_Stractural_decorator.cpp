@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 
 //"class Component" - base, for client creating this: Component* name = new class/es_inheriting_from_decorator'
@@ -121,4 +120,4 @@ int main() {
 	delete (the_cmp_of_creating);
 	delete (the_cmp_of_beauty_creating);
 	delete (the_cmp_of_a_racer);
-}*/
+}
