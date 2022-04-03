@@ -1,21 +1,23 @@
 # Design-Patterns-CPP
-Design pattern implemented types are: Structural, Creational, and Behavioural.
+Design pattern implemented types are: Structural, Creational, and Behavioural. (=Relations between classes, Creational of objects, Changes at runtime).
 Added explanations, prevented circle of hierarchy in composite DP.
 
 Stractural:
-class_adapter.cpp
-_object_adapter.cpp
-_bridge.cpp
-_composite.cpp
-Stractural_decorator.cpp
-Stractural_proxy.cpp
+class_adapter
+object_adapter
+bridge
+composite
+decorator
+proxy
 
-Creational_Factory.cpp
-Creational_abstruct_factory.cpp
-Creational_prototype.cpp
-creational_singelton.cpp
-Creational_builder.cpp
-Creational_builder_immutebale_object+IOC (=inversion_of_control_usr_ctr.cpp)
+Creational:
+Factory
+abstruct_factory
+prototype
+singelton
+builder
+builder_immutebale_object + IOC (=inversion_of_control - user control)
 
-behavioral_observer.cpp
-behavioral_state.cpp
+behavioral:
+observer
+state
