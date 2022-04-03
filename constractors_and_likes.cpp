@@ -1,9 +1,8 @@
-//question from exam in advanced cpp:
-/*
+//question from exam in advanced cpp course:
+
 #include <iostream>
 using namespace std;
 
-// 31 points
 class Graph {
     size_t vs;// Vertices
     bool** adjMat; // Adjacency Matrix
@@ -15,7 +14,7 @@ class Graph {
             delete[] adjMat;
         }
     }
-
+    
 public:
     Graph(size_t vs) : vs(vs) { // constructor
         cout << "Graph(size_t vs)" << endl;
@@ -45,7 +44,7 @@ public:
         cout << "Graph &operator=(const Graph &g)" << endl;
         if (this != &g) { // avoid bug g=g 3 points
             clear(); // clearing old allocation 3 points
-// copying - 1 point
+    // copying - 1 point
             vs = g.vs;
             adjMat = new bool* [vs];
             for (size_t i = 0; i < vs; i++) {
@@ -68,7 +67,7 @@ public:
     Graph& operator=(Graph&& g) noexcept{ // Signature 2 points
         cout << "Graph &operator=(Graph &&g)" << endl;
         if (this != &g) {// avoid bug 2 points
-// correct move 3 points
+    // correct move 3 points
             vs = g.vs;
             adjMat = g.adjMat;
             g.vs = 0;
@@ -105,6 +104,5 @@ int main() {
     g5->~Graph();
     g9->~Graph();
     std::cout << "FINISH" << std::endl;
-    return 0;
-    
-}*/
+    return 0;   
+}
