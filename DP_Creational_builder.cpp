@@ -1,4 +1,4 @@
-/*
+//Creating complex object, by choosing specific creatinal methods, like choose salt and salad, or salt and pizza, or all.
 # include <iostream>
 # include <list>
 
@@ -142,4 +142,3 @@ int main() {
 	}
 }
 //option to add remove() as well, just saying
-*/
