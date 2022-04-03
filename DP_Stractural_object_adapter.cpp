@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 
 class art_of_any_type {
@@ -62,4 +61,4 @@ int main() {
 	client_wish->Request();
 	std::cout << "THE END\n";
 	std::cout << "Well done!\n";
-}*/
+}
