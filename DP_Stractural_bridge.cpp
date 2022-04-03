@@ -1,5 +1,6 @@
-/*
 #include <iostream>
+
+//abstruct class(House) hold instance of implemented class and has it's own implementations, concatanating 2 implementations.
 
 class House_Implementation {
 public:
@@ -23,6 +24,7 @@ class Brick_Implementation: public House_Implementation {
 		std::cout << "Wall builded from bricks\n";
 	}
 };
+
 
 class House {
 protected:
@@ -74,4 +76,4 @@ int main() {
 	
 	delete (my_big_house); //delete is needed per pointer, not like that - delete(a,b);
 	delete(my_house);
-}*/
+}
