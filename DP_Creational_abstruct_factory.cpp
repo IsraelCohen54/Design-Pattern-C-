@@ -1,4 +1,4 @@
-/*
+//DP that create specific types of creational that goes together: food + plate, or chair + table, and not chair + food, etcetera.
 #include <iostream>
 
 class Sword {
@@ -95,4 +95,4 @@ int main() {
 	delete b;
 	delete sword_b;
 	delete shield_b;
-}*/
+}
