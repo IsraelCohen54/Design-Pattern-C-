@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 class Target {
 public:
@@ -22,4 +21,4 @@ int main() {
 	//as the client know the only the Target:
 	Target* target = new Adapter(); //using Target instead of Adapter adp; adp.Request();, as Target is abstruct class who can have a real method implemented, like run in the backgroung.
 	target->Request();
-}*/
+}
