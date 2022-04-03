@@ -8,7 +8,7 @@ object_adapter,
 bridge,
 composite,
 decorator,
-proxy
+proxy.
 
 Creational:
 Factory,
@@ -16,15 +16,15 @@ abstruct_factory,
 prototype,
 singelton,
 builder,
-builder_immutebale_object + IOC (=inversion_of_control - user control)
+builder_immutebale_object + IOC (=inversion_of_control - user control).
 
 Behavioural:
 observer,
-state
+state.
 
 (not implemented but important, a reminder:
-Structural: Flyweight
-Behavioural: Command, strategy, iterator, interpreter).
+Structural: Flyweight (save memory by pointing to already existing instance),
+Behavioural: Command (encapsulation, and save commands to later use), strategy (change algorithm behavior at runtime), iterator, interpreter(used with language/math understanding)).
 
 To my own use if ever needed,
 added two files, the first one with some examples of STL (Standard Template Library) usage,
