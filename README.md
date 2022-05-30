@@ -1,6 +1,6 @@
 # Design-Patterns-CPP
 Design pattern implemented types are: Structural (Relations between classes), Creational (Creational of objects), and Behavioural (Changes at runtime).
-I have added explanations and circle prevention in the hierarchy at composite DP.
+I have added explanations and circle prevention in the hierarchy of Composite DP.
 
 Structural:
 class_adapter,
