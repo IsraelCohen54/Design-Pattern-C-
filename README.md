@@ -23,9 +23,9 @@ observer,
 state.
 
 (not implemented but important, a reminder:
-Structural: Flyweight (save memory by pointing to already existing instance),
+Structural: Flyweight (save memory by pointing to an already existing instance),
 Behavioural: Command (encapsulation, and save commands to later use), strategy (change algorithm behavior at runtime), iterator, interpreter(used with language/math understanding)).
 
-To my own use if ever needed,
+To my use if ever needed,
 added two files, the first one with some examples of STL (Standard Template Library) usage,
 the second contains the implementations of CCTOR (copy constructor) and the like.
