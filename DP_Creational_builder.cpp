@@ -68,7 +68,7 @@ public:
 	}
 };
 
-//"manager" class, manage what would be added by "part" conctructors, via buider who contain one of it's inheritors and choose from there what to add:
+//"manager" class, manage what would be added by "part" constructors, via buider who contain one of it's inheritors and choose from there what to add:
 class Director {
 	Builder* builder;
 public:
