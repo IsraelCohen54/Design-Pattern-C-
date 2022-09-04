@@ -11,7 +11,7 @@ Decorator,
 Flyweight (python, unfinished project for milions of objects, main flyweight concept implemented and used successfully),
 Proxy.
 
-Creational:
+Creational:<br>
 Factory,
 Abstruct Factory,
 Prototype,
@@ -19,7 +19,7 @@ Singelton,
 Builder,
 Builder_immutebale_object + IOC (=inversion_of_control - user control).
 
-Behavioural:
+Behavioural:<br>
 Observer,
 State.
 
