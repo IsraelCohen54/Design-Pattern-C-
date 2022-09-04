@@ -19,4 +19,4 @@ Behavioural:<br>Iterator, <br>Command (encapsulation, and save commands to later
 To my use, if ever needed: <br>
 Added three files, the first one with some examples of STL (Standard Template Library) usage, <br>
 the second contains the implementations of CCTOR (copy constructor) and the like, <br>
-third goes for run time complexity for flyweight project.
+third goes for run time complexity for Flyweight project.
