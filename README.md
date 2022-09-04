@@ -8,6 +8,7 @@ Object Adapter,
 Bridge,
 Composite,
 Decorator,
+Flyweight (python, unfinished project for milions of objects, main flyweight concept implemented and used successfully),
 Proxy.
 
 Creational:
@@ -23,7 +24,6 @@ Observer,
 State.
 
 (not implemented but important, a reminder:
-Structural: Flyweight (save memory by pointing to an already existing instance),
 Behavioural: Command (encapsulation, and save commands to later use), Strategy (change algorithm behavior at runtime), Iterator, Interpreter(used with language/math understanding)).
 
 To my use, if ever needed:
