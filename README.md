@@ -8,8 +8,8 @@ Object Adapter,
 Bridge,
 Composite,
 Decorator,
-Flyweight (python, unfinished project for milions of objects, main flyweight concept implemented and used successfully),
-Proxy.
+Proxy, <br>
+Flyweight (python, unfinished project for milions of objects, main flyweight concept implemented and used successfully).
 
 Creational:<br>
 Factory,
