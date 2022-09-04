@@ -1,5 +1,5 @@
 # Design-Patterns
-Design pattern implemented types are:<br>Structural (relations between classes),<br>Creational (creating objects),<br>and Behavioural (allowing changes at runtime).<br>
+Design pattern implemented types are:<br>Structural (relations between classes), Creational (creating objects), and Behavioural (allowing changes at runtime).<br>
 I have added explanations and circle prevention in the hierarchy of Composite DP.
 
 Structural:<br>
