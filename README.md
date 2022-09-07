@@ -1,4 +1,4 @@
-# Design-Patterns CPP, and Python with Flyweight.
+# Design-Patterns CPP, and Flyweight with Python.
 Design pattern implemented types are:<br>Structural (relations between classes),<br>Creational (creating objects),<br>Behavioural (allowing changes at runtime).<br>
 I have added explanations and circle prevention in the hierarchy of Composite DP.
 
