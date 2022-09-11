@@ -1,10 +1,10 @@
-# Design-Patterns CPP, and Flyweight with Python.
+# Design-Patterns CPP.
 Design pattern implemented types are:<br>Structural (relations between classes),<br>Creational (creating objects),<br>Behavioural (allowing changes at runtime).<br>
 I have added explanations and circle prevention in the hierarchy of Composite DP.
 
 Structural:<br>
 Class Adapter, Object Adapter, Bridge, Composite, Decorator, Proxy, <br>
-Flyweight (Python, unfinished project for milions of objects, main flyweight concept implemented and used successfully).<br>
+Flyweight (Python project at its own repository).<br>
 
 Creational:<br>
 Factory, Abstruct Factory, Prototype, Singelton, Builder,<br>
@@ -19,4 +19,3 @@ Behavioural:<br>Iterator, <br>Command (encapsulation, and save commands to later
 To my use, if ever needed: <br>
 Added three files, the first one with some examples of STL (Standard Template Library) usage, <br>
 the second contains the implementations of CCTOR (copy constructor) and the like, <br>
-third (Python) goes for run time complexity for Flyweight project.
